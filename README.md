@@ -1,6 +1,6 @@
 # vue-karma-test
 
-> A Vue.js project
+> vue自动化测试例子
 
 ## Build Setup
 
