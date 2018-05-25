@@ -1,6 +1,6 @@
-# vue-karma-test
+# npm-karma
 
-> vue自动化测试例子
+> A Vue.js project
 
 ## Build Setup
 
@@ -13,8 +13,6 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-npm run test
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
